@@ -1,16 +1,16 @@
 # Food-Blog-Website
 This project created a cross-platform website with Responsive Web Design (RWD).
 
-Administrators
+Administrators:
 > Rico Suave, Kiera Knightley, Reese Witherspoon, Faye Wong and Jiangyue Xi
 
-Categories
+Categories:
 > Main Dishes, Appetizer, Side Dishes, Desserts and Drinks
 ## Front-End
 `HMTL5, CSS and Bootstrap`
 ## Back-End
 `PHP, jQuery and MySQL`
-## Functionalities:
+## Functionalities
 - Implemented submitting data to the server without refreshing the page and users online counting with Ajax
 - Realized YouTube video autoplay with jQuery
 - Implemented password encrypting with password hashing
@@ -20,7 +20,7 @@ Categories
 - Search the blog
 - Make comments
 - Send email to the bloggers
-### Administrators
+### Administrators:
 - Register
 - Login and logout
 - Add, edit and delete posts, categories and administrators
