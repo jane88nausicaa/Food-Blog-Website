@@ -1,5 +1,6 @@
 # Food-Blog-Website
 This project created a cross-platform website with Responsive Web Design (RWD).
+
 Administrators
 > Rico Suave, Kiera Knightley, Reese Witherspoon, Faye Wong and Jiangyue Xi
 
