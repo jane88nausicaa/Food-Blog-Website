@@ -12,10 +12,10 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
-                    <h2 class="page-header">
+                    <h1 class="page-header">
                         Welcome To Admin
                         <small><?php echo $_SESSION['username']; ?></small>
-                    </h2>
+                    </h1>
                     
                     <?php
                     
@@ -39,7 +39,7 @@
                             break;
                             
                         default:
-                            include "includes/view_all_comments.php";
+                            include "includes/view_all_posts.php";
                             break;
                     }
 
